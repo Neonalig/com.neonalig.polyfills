@@ -1,0 +1,11 @@
+﻿{
+  "name": "com.neonalig.polyfills",
+  "version": "1.0.0",
+  "displayName": "Neonalig Polyfills",
+  "description": "Polyfill attributes for newer C# language features to support older Unity versions.",
+  "unity": "2021.3",
+  "keywords": ["polyfill", "attributes", "c#", "compatibility"],
+  "author": {
+    "name": "Neonalig"
+  }
+}
